@@ -1,0 +1,1 @@
+insert into theme_park values(1,'def','abc');
